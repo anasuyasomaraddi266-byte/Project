@@ -32,15 +32,7 @@ The **LoRa Based GPS Tracker Using Google Maps** is an IoT-based tracking system
 2. Arduino Nano processes the GPS data.
 3. SX1278 LoRa module transmits the data wirelessly.
 4. ESP8266 receives the data and connects to Wi-Fi.
-5. The location is displayed on Google Maps. 1
-
-# Project Structure
-LoRa-GPS-Tracker/
-│── Transmitter_Code/
-│── Receiver_Code/
-│── Circuit_Diagram/
-│── Images/
-│── README.md
+5. The location is displayed on Google Maps. 
 
 # Applications
 - Vehicle Tracking
